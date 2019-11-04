@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 407 15" width="407" height="15">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { opacity: 0.278;fill: #f5c506 } 
+	</style>
+	<g id="player">
+		<path id="Rounded Rectangle 1" class="shp0" d="M7 2L401 2C403.76 2 406 4.24 406 7L406 9C406 11.76 403.76 14 401 14L7 14C4.24 14 2 11.76 2 9L2 7C2 4.24 4.24 2 7 2Z" />
+	</g>
+</svg>
