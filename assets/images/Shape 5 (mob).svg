@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 27 25" width="27" height="25">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #b99403 } 
+	</style>
+	<g id="menu">
+		<path id="Shape 5" class="shp0" d="M2 24L6.05 18L11.14 18L16.92 18L22.01 18L26 24L2 24ZM14.03 17C10.73 17 8.05 13.31 8.05 10L8.05 8C8.05 4.69 10.73 2 14.03 2C17.34 2 20.02 4.69 20.02 8L20.02 10C20.02 13.31 17.34 17 14.03 17Z" />
+	</g>
+</svg>
